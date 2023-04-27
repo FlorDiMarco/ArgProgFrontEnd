@@ -1,0 +1,10 @@
+.blue {
+    color: #043960
+}
+
+.bgexp {
+    background-image: url(../../../assets/fondo2.png);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
